@@ -1,0 +1,52 @@
+[17:04:45] [Client thread/INFO]: Setting user: Lunerva
+[17:04:45] [Client thread/INFO]: (Session ID is token::)
+[17:04:47] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:04:47] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:04:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:04:48] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[17:04:48] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:04:48] [Thread-5/INFO]: OpenAL initialized.
+[17:04:48] [Sound Library Loader/INFO]: Sound engine started
+[17:04:49] [Client thread/INFO]: Created: 512x512 textures-atlas
+[17:05:34] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[17:05:34] [Server thread/INFO]: Generating keypair
+[17:05:34] [Server thread/INFO]: Converting map!
+[17:05:34] [Server thread/INFO]: Scanning folders...
+[17:05:34] [Server thread/INFO]: Total conversion count is 0
+[17:05:35] [Server thread/INFO]: Preparing start region for level 0
+[17:05:36] [Server thread/INFO]: Preparing spawn area: 8%
+[17:05:37] [Server thread/INFO]: Preparing spawn area: 17%
+[17:05:38] [Server thread/INFO]: Preparing spawn area: 26%
+[17:05:39] [Server thread/INFO]: Preparing spawn area: 37%
+[17:05:40] [Server thread/INFO]: Preparing spawn area: 48%
+[17:05:41] [Server thread/INFO]: Preparing spawn area: 60%
+[17:05:42] [Server thread/INFO]: Preparing spawn area: 71%
+[17:05:43] [Server thread/INFO]: Preparing spawn area: 82%
+[17:05:44] [Server thread/INFO]: Preparing spawn area: 94%
+[17:05:44] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:05:45] [Server thread/INFO]: Lunerva[local:E:149f2838] logged in with entity id 254 at (184.5, 74.0, 259.5)
+[17:05:45] [Server thread/INFO]: Lunerva joined the game
+[17:05:57] [Server thread/INFO]: Lunerva has just earned the achievement [Taking Inventory]
+[17:05:57] [Client thread/INFO]: [CHAT] Lunerva has just earned the achievement [Taking Inventory]
+[17:06:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14510ms behind, skipping 290 tick(s)
+[17:06:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11368ms behind, skipping 227 tick(s)
+[17:06:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2447ms behind, skipping 48 tick(s)
+[17:06:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4247ms behind, skipping 84 tick(s)
+[17:07:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8849ms behind, skipping 176 tick(s)
+[17:07:38] [Server thread/INFO]: Lunerva has just earned the achievement [Getting Wood]
+[17:07:38] [Client thread/INFO]: [CHAT] Lunerva has just earned the achievement [Getting Wood]
+[17:07:48] [Server thread/INFO]: Lunerva has just earned the achievement [Benchmarking]
+[17:07:48] [Client thread/INFO]: [CHAT] Lunerva has just earned the achievement [Benchmarking]
+[17:08:53] [Server thread/INFO]: Saving and pausing game...
+[17:08:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:08:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:08:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:08:56] [Server thread/INFO]: Stopping server
+[17:08:56] [Server thread/INFO]: Saving players
+[17:08:56] [Server thread/INFO]: Saving worlds
+[17:08:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:08:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:08:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:09:01] [Client thread/INFO]: Stopping!
+[17:09:01] [Client thread/INFO]: SoundSystem shutting down...
+[17:09:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
