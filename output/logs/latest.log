@@ -1,43 +1,46 @@
-[22:46:50] [Client thread/INFO]: Setting user: lun
-[22:46:50] [Client thread/INFO]: (Session ID is token::)
-[22:46:51] [Client thread/INFO]: LWJGL Version: 2.9.4
-[22:46:52] [Client thread/INFO]: Reloading ResourceManager: Default
-[22:46:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[22:46:53] [Thread-4/INFO]: Initializing LWJGL OpenAL
-[22:46:53] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[22:46:53] [Thread-4/INFO]: OpenAL initialized.
-[22:46:53] [Sound Library Loader/INFO]: Sound engine started
-[22:46:54] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[22:47:07] [Server thread/INFO]: Starting integrated minecraft server version 1.9
-[22:47:07] [Server thread/INFO]: Generating keypair
-[22:47:08] [Server thread/INFO]: Preparing start region for level 0
-[22:47:09] [Server thread/INFO]: Preparing spawn area: 9%
-[22:47:10] [Server thread/INFO]: Preparing spawn area: 20%
-[22:47:11] [Server thread/INFO]: Preparing spawn area: 38%
-[22:47:12] [Server thread/INFO]: Preparing spawn area: 50%
-[22:47:13] [Server thread/INFO]: Preparing spawn area: 65%
-[22:47:14] [Server thread/INFO]: Preparing spawn area: 82%
-[22:47:15] [Server thread/INFO]: Preparing spawn area: 98%
-[22:47:15] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:47:15] [Server thread/INFO]: lun[local:E:d9e39ef1] logged in with entity id 64 at (89.5, 69.0, 60.5)
-[22:47:15] [Server thread/INFO]: lun joined the game
-[22:47:16] [Server thread/INFO]: Saving and pausing game...
-[22:47:16] [Server thread/INFO]: Saving chunks for level 'New'/Overworld
-[22:47:18] [Server thread/INFO]: Saving chunks for level 'New'/Nether
-[22:47:18] [Server thread/INFO]: Saving chunks for level 'New'/The End
-[22:47:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2935ms behind, skipping 58 tick(s)
-[22:47:35] [Server thread/INFO]: lun has just earned the achievement [Taking Inventory]
-[22:47:35] [Client thread/INFO]: [CHAT] lun has just earned the achievement [Taking Inventory]
-[22:48:11] [Server thread/INFO]: Saving and pausing game...
-[22:48:11] [Server thread/INFO]: Saving chunks for level 'New'/Overworld
-[22:48:12] [Server thread/INFO]: Saving chunks for level 'New'/Nether
-[22:48:12] [Server thread/INFO]: Saving chunks for level 'New'/The End
-[22:48:13] [Server thread/INFO]: Stopping server
-[22:48:13] [Server thread/INFO]: Saving players
-[22:48:13] [Server thread/INFO]: Saving worlds
-[22:48:13] [Server thread/INFO]: Saving chunks for level 'New'/Overworld
-[22:48:13] [Server thread/INFO]: Saving chunks for level 'New'/Nether
-[22:48:13] [Server thread/INFO]: Saving chunks for level 'New'/The End
-[22:48:15] [Client thread/INFO]: Stopping!
-[22:48:15] [Client thread/INFO]: SoundSystem shutting down...
-[22:48:15] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[02:01:29] [Client thread/INFO]: Setting user: ko
+[02:01:29] [Client thread/INFO]: (Session ID is token::)
+[02:01:30] [Client thread/INFO]: LWJGL Version: 2.9.4
+[02:01:31] [Client thread/INFO]: Reloading ResourceManager: Default
+[02:01:37] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[02:01:38] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[02:01:38] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[02:01:38] [Thread-5/INFO]: OpenAL initialized.
+[02:01:38] [Sound Library Loader/INFO]: Sound engine started
+[02:01:39] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[02:02:06] [Client thread/INFO]: Realms library version == 1.8.7
+[02:02:06] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
+[02:02:23] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[02:02:23] [Server thread/INFO]: Generating keypair
+[02:02:24] [Server thread/INFO]: Preparing start region for level 0
+[02:02:25] [Server thread/INFO]: Preparing spawn area: 43%
+[02:02:25] [Server thread/INFO]: Changing view distance to 12, from 10
+[02:02:25] [Server thread/INFO]: ko[local:E:120e2649] logged in with entity id 456 at (175.69999998807907, 65.0, 114.01933578459871)
+[02:02:25] [Server thread/INFO]: ko joined the game
+[02:02:33] [Server thread/INFO]: Saving and pausing game...
+[02:02:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:02:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:02:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:02:36] [Server thread/INFO]: Saving and pausing game...
+[02:02:36] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:02:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:02:36] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:02:41] [Server thread/INFO]: Saving and pausing game...
+[02:02:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:02:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:02:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:03:02] [Server thread/INFO]: ko has just earned the achievement [Taking Inventory]
+[02:03:02] [Client thread/INFO]: [CHAT] ko has just earned the achievement [Taking Inventory]
+[02:03:10] [Server thread/INFO]: Saving and pausing game...
+[02:03:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:03:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:03:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:03:11] [Server thread/INFO]: Stopping server
+[02:03:11] [Server thread/INFO]: Saving players
+[02:03:11] [Server thread/INFO]: Saving worlds
+[02:03:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:03:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:03:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:03:12] [Client thread/INFO]: Stopping!
+[02:03:12] [Client thread/INFO]: SoundSystem shutting down...
+[02:03:12] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
