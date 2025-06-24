@@ -1,0 +1,30 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de usuario
+*.log
+*.pyc
+__pycache__/
+*.swp
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Configuración específica de Python
+*.pyo
+*.pyd
+
+# Configuración del proyecto
+*.egg-info/
+.eggs/
+
+# Directorio de Minecraft (por precaución, aunque se genera dinámicamente)
+.minecraftLauncher/
