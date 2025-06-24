@@ -4,6 +4,7 @@
 
 # Instalación
 1. Crear y activar entorno virtual
+
 Windows:
     python -m venv venv
     venv\Scripts\activate
