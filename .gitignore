@@ -13,6 +13,7 @@ Thumbs.db
 *.pyc
 __pycache__/
 *.swp
+log/
 
 # Configuración de IDEs
 .vscode/
